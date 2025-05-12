@@ -1,2 +1,2 @@
-python address_send.py test.txt
+python send.py test.txt
 pause
