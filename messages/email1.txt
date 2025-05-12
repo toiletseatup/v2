@@ -1,0 +1,108 @@
+<div id=":a4" class="a3s aiL msg-"><div class="adM">
+
+
+
+
+</div><div dir="ltr"><div class="adM">
+</div><div style="margin-top:1em;margin-bottom:1em;font-family:Calibri,Helvetica,sans-serif;font-size:12pt;color:rgb(0,0,0)">
+Hi {company_name} accounting Team,</div>
+<div style="margin-top:1em;margin-bottom:1em;font-family:Calibri,Helvetica,sans-serif;font-size:12pt;color:rgb(0,0,0)">
+Please find the attached invoice for processing. See below for more info.<br>
+<br>
+To ensure everything proceeds on schedule, we kindly ask that payment be arranged within the designated timeframe and to take advantage of the discount.</div>
+<div style="margin-top:1em;margin-bottom:1em;font-family:Calibri,Helvetica,sans-serif;font-size:12pt;color:rgb(0,0,0)">
+Let me know if you need anything from our side.<br>
+Best regards</div>
+<div style="margin-top:1em;margin-bottom:1em;font-family:Calibri,Helvetica,sans-serif;font-size:12pt;color:rgb(0,0,0)">
+<b>Marcus Ellery</b><br>
+Managing Partner<br>
+<br>
+<b>Graben Consulting LLC</b></div>
+<div style="font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif;font-size:14pt;color:rgb(0,0,0)">
+<br>
+</div>
+<hr style="display:inline-block;width:98%">
+<div id="m_-5625359734889197550divRplyFwdMsg" dir="ltr"><span style="font-family:Calibri,sans-serif;font-size:11pt;color:rgb(0,0,0)"><b>From:</b>&nbsp;{name}&nbsp; &lt;<a href="mailto:{ceo}" target="_blank">{ceo}</a>&gt;<br>
+<b>Sent:</b>&nbsp;Friday, May 03, 2025 03:47 PM<br>
+<b>To:</b>&nbsp;Marcus Ellery </div><br>
+<b>Cc:</b>&nbsp;Graben LLC Accounting &lt;<a href="mailto:accounting@grabenllc.com" target="_blank">accounting@grabenllc.com</a>&gt<br>
+<b>Subject:</b>&nbsp;INV22748 – Revised INV with Discount (Q1 Advisory Services)<br>
+</span>
+<div>&nbsp;</div>
+</div>
+<div style="direction:ltr;text-align:left;text-indent:0px;background-color:rgb(255,255,255);margin:0px;font-family:Calibri,Helvetica,sans-serif;font-size:14pt;color:rgb(0,0,0)">
+<br>
+</div>
+<div style="margin-top:1em;margin-bottom:1em;font-family:Calibri,Helvetica,sans-serif;font-size:12pt;color:rgb(0,0,0)">
+Hi Marcus<br>
+<br>
+Thanks for the updated invoice and for accommodating the discount — The invoice is approved.<br>
+<br>
+Please forward the revised invoice to our accounting team at  <a href="mailto:{email}" target="_blank">{email}</a> for prompt processing. We will complete payment within the discount window.<br>
+<br>
+As discussed, we’ve seen clear improvements across both compliance tracking and investment alignments.<br>
+<br>
+We’re looking forward to building on this momentum in Q2, especially as we begin operationalizing some of the strategic shifts discussed.<br>
+<br>
+Thanks &amp; Regards<br>
+<b>{name}</b></div>
+<div id="m_-5625359734889197550appendonsend"></div>
+<div style="font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif;font-size:14pt;color:rgb(0,0,0)">
+<br>
+</div>
+<hr style="display:inline-block;width:98%">
+<div id="m_-5625359734889197550divRplyFwdMsg" dir="ltr"><span style="font-family:Calibri,sans-serif;font-size:11pt;color:rgb(0,0,0)"><b>From:</b>&nbsp;Marcus Ellery<br>
+<b>Sent:</b>&nbsp;Friday, May 03, 2025 09:21 AM<br>
+<b>To:</b>&nbsp;{name}&nbsp; &lt;<a href="mailto:{ceo}" target="_blank">{ceo}</a>&gt; </div><br>
+<b>Cc:</b>&nbsp;Graben LLC Accounting &lt;<a href="mailto:accounting@grabenllc.com" target="_blank">accounting@grabenllc.com</a>&gt<br>
+<b>Subject:</b>&nbsp;INV22748 – Revised INV with Discount (Q1 Advisory Services)<br>
+</span>
+<div>&nbsp;</div>
+</div>
+<div style="direction:ltr;text-align:left;text-indent:0px;background-color:rgb(255,255,255);margin:0px;font-family:Calibri,Helvetica,sans-serif;font-size:14pt;color:rgb(0,0,0)">
+<br>
+</div>
+<div style="direction:ltr;text-align:left;text-indent:0px;background-color:rgb(255,255,255);margin:0px;font-family:Calibri,Helvetica,sans-serif;font-size:12pt;color:rgb(0,0,0)">
+Dear {name},</div>
+<div style="font-family:Calibri,Helvetica,sans-serif;font-size:12pt;color:rgb(0,0,0)">
+<br>
+</div>
+<div style="font-family:Calibri,Helvetica,sans-serif;font-size:12pt;color:rgb(0,0,0)">
+Please&nbsp;find attached the invoice for advisory services rendered from January through April 2024.</div>
+<div style="font-family:Calibri,Helvetica,sans-serif;font-size:12pt;color:rgb(0,0,0)">
+<br>
+</div>
+<div style="font-family:Calibri,Helvetica,sans-serif;font-size:12pt;color:rgb(0,0,0)">
+This engagement encompassed:<br>
+<br>
+</div>
+<div style="font-family:Calibri,Helvetica,sans-serif;font-size:12pt;color:rgb(0,0,0)">
+• Regulatory framework assessment and optimization</div>
+<div style="font-family:Calibri,Helvetica,sans-serif;font-size:12pt;color:rgb(0,0,0)">
+• Multi-market investment strategy consultation</div>
+<div style="font-family:Calibri,Helvetica,sans-serif;font-size:12pt;color:rgb(0,0,0)">
+• Operational support aligned with Q1 growth objectives</div>
+<div style="font-family:Calibri,Helvetica,sans-serif;font-size:12pt;color:rgb(0,0,0)">
+<br>
+</div>
+<div style="font-family:Calibri,Helvetica,sans-serif;font-size:12pt;color:rgb(0,0,0)">
+Total Due: $47,500.00<br> Your address: {address}<br>
+<br>
+</div>
+<div style="font-family:Calibri,Helvetica,sans-serif;font-size:12pt;color:rgb(0,0,0)">
+Per agreement and terms, a 10% Discount was applied. The revised total is valid if payment is received within 7 days</div>
+<div style="font-family:Calibri,Helvetica,sans-serif;font-size:12pt;color:rgb(0,0,0)">
+<br>
+</div>
+<div style="margin-top:1em;margin-bottom:1em;font-family:Calibri,Helvetica,sans-serif;font-size:12pt;color:rgb(0,0,0)">
+Best regards,</div>
+<div style="margin-top:1em;margin-bottom:1em;font-family:Calibri,Helvetica,sans-serif;font-size:12pt;color:rgb(0,0,0)">
+<b>Marcus Ellery</b><br>
+Managing Partner<br>
+<br>
+<b>Graben Consulting LLC</b></div>
+<div style="font-family:Calibri,Helvetica,sans-serif;font-size:12pt;color:rgb(0,0,0)">
+<br>
+</div>
+<div id="m_-5625359734889197550x_Signature"></div>
+</div>

@@ -1,0 +1,285 @@
+<meta charset="UTF-8" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<title></title>
+<style type="text/css">body {
+    background: transparent;
+    font-family: Verdana, Geneva, sans-serif;
+    margin: 0;
+    padding: 20px 30px;
+    color: #1f2937;
+    font-size: 14px;
+  }
+
+  .invoice {
+    width: 100%;
+    max-width: 850px;
+    margin: 0 auto;
+    background: transparent;
+    padding: 30px;
+    border-radius: 12px;
+  }
+
+  .top-row {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+  }
+
+  .top-row .sender-info {
+    text-align: right;
+    font-size: 14px;
+    color: #1e293b;
+    line-height: 1.5;
+  }
+
+  .top-row .sender-info .company-name {
+    font-size: 28px;
+    font-weight: bold;
+    color: #0f172a;
+  }
+
+  .header {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+
+  .header h1 {
+    font-size: 30px;
+    margin-bottom: 8px;
+    color: #334155;
+  }
+
+  .meta-grid {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 16px;
+  }
+
+  .meta-block {
+    width: 48%;
+    background: #f1f5f9;
+    padding: 18px;
+    border-left: 6px solid #334155;
+    border-radius: 4px;
+  }
+
+  .meta-block h3 {
+    font-size: 15px;
+    margin-bottom: 8px;
+    color: #334155;
+  }
+
+  .meta-block p {
+    margin: 4px 0;
+    font-size: 14px;
+  }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 24px;
+  }
+
+  thead {
+    background: #334155;
+    color: #fff;
+  }
+
+  th, td {
+    padding: 14px;
+    text-align: left;
+    font-size: 14px;
+  }
+
+  tbody td {
+    border-bottom: 1px solid #e2e8f0;
+    vertical-align: top;
+  }
+
+  .amount {
+    text-align: right;
+    white-space: nowrap;
+  }
+
+  .totals {
+  width: 300px;
+  margin-top: 30px;
+  margin-left: auto;
+  margin-bottom: 0;
+  page-break-inside: avoid;
+    margin-top: 35px;
+    
+    width: 300px;
+    margin-bottom: 30px;
+  }
+
+  .totals td {
+    padding: 10px;
+    font-size: 14px;
+  }
+
+  .totals .label {
+    color: #475569;
+  }
+
+  .totals .final {
+    background: #334155;
+    color: #fff;
+    font-weight: bold;
+  }
+
+  .banking {
+  page-break-inside: avoid;
+    clear: both;
+    margin-top: 28px;
+    background: #f1f5f9;
+    padding: 16px;
+    border-radius: 6px;
+    line-height: 1.6;
+  }
+
+  .banking h4 {
+    margin-top: 0;
+    margin-bottom: 8px;
+    font-size: 15px;
+    color: #334155;
+  }
+
+  .footer-note {
+    text-align: center;
+    margin-top: 35px;
+    font-size: 13px;
+    color: #64748b;
+  }
+
+  ul {
+    margin: 6px 0 0 0;
+    padding-left: 20px;
+  }
+
+  ul li {
+    margin-bottom: 4px;
+  }
+</style>
+<div class="invoice">
+<div class="top-row">
+<div>&nbsp;</div>
+
+<div class="sender-info">
+<div class="company-name">Peerbie Inc</div>
+<span style="font-size:14px;">438 Forest Avenue<br />
+Manhattan, NY 10016</span></div>
+</div>
+
+<table style="width: 100%; margin-bottom: 16px;">
+	<tbody>
+		<tr>
+			<td class="meta-block">
+			<h3>Bill To:</h3>
+
+			<p><strong>{company_name}</strong></p>
+
+			<p>{address}</p>
+
+			<p>&nbsp;</p>
+
+			<p>Contact Person: {name}</p>
+			</td>
+			<td class="meta-block">
+			<h3>Details:</h3>
+
+			<p><strong>Invoice #:</strong> 22748</p>
+
+			<p><strong>Issued:</strong> 06 May 2025</p>
+
+			<p><strong>Due:</strong> Upon Receipt</p>
+
+			<p><strong>Discount:</strong> 10% (<span style="color:#FF0000;">Expires May 13 2025</span>)</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<table>
+	<thead>
+		<tr>
+			<th style="width:5%">#</th>
+			<th>Description</th>
+			<th class="amount" style="width:20%">Amount (USD)</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>1</td>
+			<td><span style="font-size:18px;"><strong>Regulatory Framework Advisory</strong></span><br />
+			To streamline compliance, licensing & regulatory workflows through April 2025.</td>
+			<td class="amount">$11,000.00</td>
+		</tr>
+		<tr>
+			<td>2</td>
+			<td><span style="font-size:18px;"><strong>Market Strategy &amp; Investment Planning</strong></span><br />
+			Financial modeling and strategic planning for diversified investments in public and private markets.</td>
+			<td class="amount">$9,000.00</td>
+		</tr>
+		<tr>
+			<td>3</td>
+			<td><span style="font-size:18px;"><strong>Operational Risk &amp; Forecasting</strong></span><br />
+			Cross-border performance roadmap + risk simulations and business continuity.</td>
+			<td class="amount">$6,000.00</td>
+		</tr>
+		<tr>
+			<td>4</td>
+			<td><span style="font-size:18px;"><strong>VIP Client Services &ndash; </strong>{name}</span><br />
+			Exclusive services for strategic-level clients. Includes:
+			<ul>
+				<li>Consultation with comprehensive reports</li>
+				<li>Dedicated VIP Relationship Manager</li>
+				<li>Early access to new products and Invitations to exclusive events</li>
+			</ul>
+			</td>
+			<td class="amount">$10,500.00</td>
+		</tr>
+		<tr>
+			<td>5</td>
+			<td><span style="font-size:18px;"><strong>Quarterly Advisory Sessions</strong></span><br />
+			Strategic reviews, benchmarking, and personalized execution briefs per quarter.</td>
+			<td class="amount">$11,000.00</td>
+		</tr>
+	</tbody>
+</table>
+
+<div class="totals">
+<table>
+	<tbody>
+		<tr>
+			<td class="label"><strong>Total</strong></td>
+			<td class="amount"><strong>$47,500.00</strong></td>
+		</tr>
+		<tr>
+			<td class="label">Amount Paid</td>
+			<td class="amount">$0.00</td>
+		</tr>
+		<tr>
+			<td class="label">Discount (10%)</td>
+			<td class="amount">-$4,750.00</td>
+		</tr>
+		<tr class="final">
+			<td>Balance Due</td>
+			<td class="amount">$42,750.00</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<div class="banking">
+<h4><strong>Banking Information:</strong></h4>
+
+<p><strong>Bank:</strong> Sunrise Banks, N.A.<br />
+<strong>Bank Address:</strong> 200 University Avenue West, Suite 100, St. Paul, MN 55103<br />
+<strong>Beneficiary:</strong> Peerbie Inc<br />
+<strong>ACH Routing #:</strong> 091017138<br />
+<strong>Wire Routing #:</strong> 121145307<br />
+<strong>Account #:</strong> 692101397457<br />
+<strong>Method:</strong> EFT Only</p>
+</div>
+</div>
